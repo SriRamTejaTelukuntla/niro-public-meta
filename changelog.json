@@ -4,19 +4,35 @@
     {
       "version": "1.0.0",
       "date": "2026-01-15",
-      "highlight": "The first release!",
+      "highlight": "The first release of Niro! Your ultimate anime and manga companion with MyAnimeList integration.",
       "sections": [
         {
           "type": "New",
-          "items": ["Feature 1", "Feature 2"]
+          "items": [
+            "Browse seasonal anime, popular series, and top-ranked shows",
+            "Discover popular manga, novels, and manhwa",
+            "Search for your favorite anime and manga",
+            "View detailed information including synopsis, genres, and trailers",
+            "Sign in with your MyAnimeList account",
+            "Manage your personal anime and manga lists",
+            "Track your watching/reading progress",
+            "Rate anime and manga from 0 to 10",
+            "Update your watching status (watching, completed, on hold, dropped, plan to watch)",
+            "View your profile and statistics",
+            "Get personalized anime recommendations",
+            "Browse character information for anime",
+            "Read and explore user reviews",
+            "View image galleries and watch trailers"
+          ]
         },
         {
           "type": "Improved",
-          "items": ["Improvement 1"]
-        },
-        {
-          "type": "Fixed",
-          "items": ["Bug fix 1"]
+          "items": [
+            "Fast and smooth app performance with smart data loading",
+            "Beautiful animations throughout the app",
+            "Optimized for both iOS and Android devices",
+            "Quick image loading and display"
+          ]
         }
       ]
     }
