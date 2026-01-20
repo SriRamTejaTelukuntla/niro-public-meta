@@ -1,0 +1,24 @@
+{
+  "latestVersion": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-01-15",
+      "highlight": "The first release!",
+      "sections": [
+        {
+          "type": "New",
+          "items": ["Feature 1", "Feature 2"]
+        },
+        {
+          "type": "Improved",
+          "items": ["Improvement 1"]
+        },
+        {
+          "type": "Fixed",
+          "items": ["Bug fix 1"]
+        }
+      ]
+    }
+  ]
+}
