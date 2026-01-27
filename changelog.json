@@ -1,8 +1,70 @@
 {
-  "latestVersion": "1.0.0",
+  "latestVersion": "0.3.1",
   "versions": [
     {
-      "version": "1.0.0",
+      "version": "0.3.1",
+      "date": "2026-01-27",
+      "highlight": "Visual polish and UI consistency improvements across the app.",
+      "sections": [
+        {
+          "type": "Improved",
+          "items": [
+            "Enhanced blur effects in the bottom tab bar for a cleaner look",
+            "Smoother gradient overlays on anime and manga detail screens",
+            "Cleaner bottom sheets with hidden scroll indicators",
+            "Better visual consistency across iOS and Android"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.3.0",
+      "date": "2026-01-25",
+      "highlight": "New unified header design and improved settings experience.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Redesigned headers with consistent styling across all screens",
+            "New icon button design for navigation and actions"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Settings toggles now use native switch controls for better feel",
+            "Improved text readability in your anime/manga lists",
+            "Consistent back button style throughout the app"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.2.0",
+      "date": "2026-01-20",
+      "highlight": "Introducing our new component system for a more polished experience.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "New button styles with primary, secondary, and ghost variants",
+            "Redesigned toggle switches with smoother animations",
+            "New text input design with icon support",
+            "Improved bottom sheet modals with better gestures"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "More consistent and polished UI elements",
+            "Better touch feedback on interactive elements",
+            "Smoother animations throughout the app"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.1.0",
       "date": "2026-01-15",
       "highlight": "The first release of Niro! Your ultimate anime and manga companion with MyAnimeList integration.",
       "sections": [
