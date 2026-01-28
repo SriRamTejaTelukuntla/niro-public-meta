@@ -1,6 +1,31 @@
 {
-  "latestVersion": "0.3.1",
+  "latestVersion": "0.4.0",
   "versions": [
+    {
+      "version": "0.4.0",
+      "date": "2026-01-28",
+      "highlight": "Settings customization and immersive haptic feedback for every interaction.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Settings toggles to customize your app experience",
+            "Suggested Anime section toggle - show or hide recommendations on the Anime home page",
+            "App-Wide Haptics toggle - enable/disable haptic feedback throughout the app",
+            "Haptic feedback on card taps, button presses, tab switches, and more",
+            "Persistent settings that survive app restarts"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Enhanced user interactions with light, medium, and selection haptic feedback",
+            "All settings now persist to device storage",
+            "Better touch feedback on cards, buttons, and navigation"
+          ]
+        }
+      ]
+    },
     {
       "version": "0.3.1",
       "date": "2026-01-27",
