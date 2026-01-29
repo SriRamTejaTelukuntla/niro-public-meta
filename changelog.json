@@ -1,6 +1,32 @@
 {
-  "latestVersion": "0.4.0",
+  "latestVersion": "0.5.0",
   "versions": [
+    {
+      "version": "0.5.0",
+      "date": "2026-01-28",
+      "highlight": "User activity tracking with MAL images and personalized status badges.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "User activity section showing recent watched episodes and read chapters",
+            "Recent updates section displaying list status changes",
+            "Thumbnail images from MyAnimeList for activity cards",
+            "Reusable StatusBadge component mapping status to icons and colors",
+            "Enhanced skeleton loaders matching thumbnail dimensions"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Profile page with proper bottom padding using navbar height",
+            "Parallel image fetching for better performance",
+            "Blur effect borders on thumbnails for visual polish",
+            "Consistent use of Design System tokens for colors and spacing"
+          ]
+        }
+      ]
+    },
     {
       "version": "0.4.0",
       "date": "2026-01-28",
