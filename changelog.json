@@ -1,6 +1,30 @@
 {
-  "latestVersion": "0.5.0",
+  "latestVersion": "0.6.0",
   "versions": [
+    {
+      "version": "0.6.0",
+      "date": "2026-01-31",
+      "highlight": "Anime airing schedule and share your favorite anime with friends.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Anime Airing Schedule page - see what's airing each day of the week",
+            "Schedule tab in navigation for quick access",
+            "Share anime and manga with friends via native share menu",
+            "Floating action button now animates smoothly on scroll"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "FAB collapses to a perfect circle when scrolling down",
+            "Smoother spring animations on the Add to List button",
+            "Profile page now has a gradient navbar like other tabs"
+          ]
+        }
+      ]
+    },
     {
       "version": "0.5.0",
       "date": "2026-01-28",
