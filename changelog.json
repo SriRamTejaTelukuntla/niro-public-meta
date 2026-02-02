@@ -1,6 +1,31 @@
 {
-  "latestVersion": "0.6.0",
+  "latestVersion": "0.7.0",
   "versions": [
+    {
+      "version": "0.7.0",
+      "date": "2026-02-02",
+      "highlight": "NSFW content filter and expanded profile features with View All pages.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "NSFW toggle to filter mature content throughout the app",
+            "View All pages for Recent Activity section",
+            "View All pages for Recent Updates section",
+            "Confirmation dialog when removing items from your list"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Fixed scroll position initialization on iOS",
+            "Navigation guards to prevent accidental double-click navigation",
+            "Confirmation dialog for opening external video links",
+            "Build configuration improvements for development"
+          ]
+        }
+      ]
+    },
     {
       "version": "0.6.0",
       "date": "2026-01-31",
