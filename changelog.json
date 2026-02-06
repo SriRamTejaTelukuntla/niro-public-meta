@@ -1,6 +1,32 @@
 {
-  "latestVersion": "0.7.0",
+  "latestVersion": "0.8.0",
   "versions": [
+    {
+      "version": "0.8.0",
+      "date": "2026-02-06",
+      "highlight": "Profile sharing with QR codes, context menus, and improved image performance.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Profile sharing with QR code support - share your MAL profile easily",
+            "Context menu on anime and manga cards - long press to copy or share for iOS",
+            "TiltCard component with 3D tilt effect for profile sharing",
+            "Image placeholders while content loads"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Improved image loading performance across the app",
+            "Better reliability for network requests, preventing the app from getting stuck",
+            "Clearer time labels (weeks and months are easier to understand)",
+            "Bigger, clearer thumbnails on cards",
+            "Refined colors and overall UI polish across the app"
+          ]
+        }
+      ]
+    },
     {
       "version": "0.7.0",
       "date": "2026-02-02",
