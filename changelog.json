@@ -1,6 +1,40 @@
 {
-  "latestVersion": "0.8.0",
+  "latestVersion": "0.9.0",
   "versions": [
+    {
+      "version": "0.9.0",
+      "date": "2026-02-10",
+      "highlight": "Seasonal anime browsing, pull-to-refresh, list search, and toast notifications.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Seasonal anime screen — browse anime by season and year",
+            "Upcoming anime section on the Anime home page",
+            "Pull-to-refresh on all major screens — swipe down to reload",
+            "Search your anime and manga lists from the My List screen",
+            "Toast notifications when updating your list",
+            "Score and priority options when managing list entries",
+            "Start and finish date tracking for list entries",
+            "Open anime, manga, and character pages directly on MyAnimeList",
+            "Share characters with friends",
+            "English title display option in settings",
+            "Broadcast schedule info on anime details"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Enhanced blur effects on tabs and buttons",
+            "Haptic feedback on more interactions throughout the app",
+            "Smoother bottom sheets",
+            "Renamed NSFW setting to Mature Content for clarity",
+            "Better InfoBar visibility and styling",
+            "Consistent icon styling across the app"
+          ]
+        }
+      ]
+    },
     {
       "version": "0.8.0",
       "date": "2026-02-06",
