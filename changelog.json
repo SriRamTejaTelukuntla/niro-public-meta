@@ -1,6 +1,29 @@
 {
-  "latestVersion": "0.9.0",
+  "latestVersion": "0.10.0",
   "versions": [
+    {
+      "version": "0.10.0",
+      "date": "2026-02-15",
+      "highlight": "Smarter back button, faster lists, and smoother interactions.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Android back button now closes popups and bottom sheets before leaving the screen",
+            "Faster loading when opening your anime and manga lists"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Added subtle vibration feedback when switching tabs and interacting with reviews",
+            "Smoother toggle design with blur effect on iOS",
+            "Cleaner spacing and improved styling in related and review sections",
+            "Ratings now show up to 2 decimal places for better accuracy"
+          ]
+        }
+      ]
+    },
     {
       "version": "0.9.0",
       "date": "2026-02-10",
