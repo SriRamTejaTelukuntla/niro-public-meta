@@ -1,6 +1,57 @@
 {
-  "latestVersion": "0.10.0",
+  "latestVersion": "0.11.0",
   "versions": [
+    {
+      "version": "0.11.0",
+      "date": "2026-02-20",
+      "highlight": "Person details, rewatching, better image viewing, and a refreshed settings experience.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "What's New banner when you update the app",
+            "Full-screen image gallery for anime and manga",
+            "Person details screen — view voice actors and staff",
+            "About Niro screen with credits and links",
+            "Swipe between seasonal anime tabs",
+            "Rewatching — track how many times you've rewatched a show",
+            "Your list status now shows on the schedule screen",
+            "Profile stats are tappable — tap a stat to jump to that section in My List",
+            "Anime studios row with links to official sites",
+            "Summary stats on anime and manga detail pages",
+            "Comments field when updating your list",
+            "Mature content protection — blurred previews until you opt in",
+            "Blur mature content poster option in General settings",
+            "Default tab — choose which tab opens when you launch the app",
+            "Hide tab bar on scroll — tab bar hides when scrolling for more screen space",
+            "Redesigned settings page with Content and Behavior sections",
+            "Scroll to top when you tap the same tab again"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Related anime and manga show your list status",
+            "Search bar refocuses after clearing",
+            "Faster search with better performance",
+            "Cleaner search results layout",
+            "Lists refresh automatically when you make changes",
+            "Expandable synopsis and background text",
+            "Better back button behavior on tab screens",
+            "Improved number formatting for stats",
+            "Nicer changelog screen with version info",
+            "Login button styling on My List and Profile"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Clearer text in general settings",
+            "Rewatching label shows correctly for singular and plural"
+          ]
+        }
+      ]
+    },
     {
       "version": "0.10.0",
       "date": "2026-02-15",
