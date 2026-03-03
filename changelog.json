@@ -1,6 +1,45 @@
 {
-  "latestVersion": "0.11.0",
+  "latestVersion": "0.12.0",
   "versions": [
+    {
+      "version": "0.12.0",
+      "date": "2026-03-03",
+      "highlight": "New anime notifications, a cleaner Discover/Search flow, and smoother app startup and navigation.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "You can now subscribe to anime notifications",
+            "New Active Notifications screen to manage your reminders",
+            "Better notification controls in Settings",
+            "Discover now combines anime and manga in one place",
+            "New dedicated Search screen",
+            "Blur effects can be disabled in General settings for improved performance on older devices",
+            "Sort and filter options for search and seasonal anime"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Smarter notification flow with better permission handling",
+            "Schedule now shows times in your local timezone and displays your list status",
+            "Faster search with better matching and subtle haptic feedback",
+            "Smoother tabs and navigation on both iOS and Android",
+            "Cleaner blur effects across the app",
+            "Improved layouts and loading states in My List, Profile, and Settings",
+            "More reliable app startup experience"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Improved login and session recovery",
+            "Better scroll behavior on iOS schedule",
+            "Clearer wording in sort and notification settings"
+          ]
+        }
+      ]
+    },
     {
       "version": "0.11.0",
       "date": "2026-02-20",
