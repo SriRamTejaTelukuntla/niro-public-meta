@@ -1,6 +1,19 @@
 {
-  "latestVersion": "0.13.0",
+  "latestVersion": "0.13.1",
   "versions": [
+    {
+      "version": "0.13.1",
+      "date": "2026-03-12",
+      "highlight": "Smoother startup experience",
+      "sections": [
+        {
+          "type": "Improved",
+          "items": [
+            "Splash screen now stays visible while app settings and fonts finish loading"
+          ]
+        }
+      ]
+    },
     {
       "version": "0.13.0",
       "date": "2026-03-11",
