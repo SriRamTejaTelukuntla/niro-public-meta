@@ -1,6 +1,42 @@
 {
-  "latestVersion": "0.13.1",
+  "latestVersion": "0.14.0",
   "versions": [
+    {
+      "version": "0.14.0",
+      "date": "2026-03-24",
+      "highlight": "New settings tools, better connectivity handling, and smoother profile/list experience.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Added a dedicated Genre screen with improved genre navigation",
+            "Added My List Settings screen",
+            "Added Support screen",
+            "Added offline handling with a No Internet state",
+            "Added more legal/provider details in About Niro"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Settings now show app version info and clearer icons",
+            "Updated toast visuals and success feedback",
+            "Added haptic feedback when selecting genre chips",
+            "UI layouts are now more responsive across different screen sizes",
+            "Improved list/profile UI consistency and messaging across multiple screens",
+            "Improved auth and API reliability, including cache handling and domain-specific exception handling"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Refined airing countdown display in the InfoBar",
+            "Fixed card radius token usage for more consistent UI",
+            "Updated support screen title text for better clarity"
+          ]
+        }
+      ]
+    },
     {
       "version": "0.13.1",
       "date": "2026-03-12",
