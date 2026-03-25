@@ -1,6 +1,32 @@
 {
-  "latestVersion": "0.14.0",
+  "latestVersion": "1.0.0",
   "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-03-25",
+      "highlight": "Niro is now officially in stable release.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Public stable release of Niro"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Better overall app reliability and smoother performance",
+            "Cleaner settings and profile experience"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "General bug fixes for a more stable experience"
+          ]
+        }
+      ]
+    },
     {
       "version": "0.14.0",
       "date": "2026-03-24",
