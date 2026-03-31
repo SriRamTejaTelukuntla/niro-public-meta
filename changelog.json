@@ -1,6 +1,28 @@
 {
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.0.1",
   "versions": [
+    {
+      "version": "1.0.1",
+      "date": "2026-03-31",
+      "highlight": "Bug fixes for sharing, list management, connectivity, and UI polish.",
+      "sections": [
+        {
+          "type": "Fixed",
+          "items": [
+            "Sharing anime and manga now uses the correct display title",
+            "Sharing now includes cover images and a source message",
+            "Completed media correctly records a finish date in your list",
+            "Anime subscription updates and cache cleanup work reliably",
+            "Seasonal anime filtering is more accurate",
+            "Source information now displays correctly in the Details tab",
+            "Connectivity status detection and its UI feedback are more reliable",
+            "No Internet screen now matches the app theme",
+            "Added a helpful description for account deletion in the Support screen",
+            "Minor layout and text color fixes in the About Niro screen"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.0.0",
       "date": "2026-03-25",
