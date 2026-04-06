@@ -1,6 +1,43 @@
 {
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.1.0",
   "versions": [
+    {
+      "version": "1.1.0",
+      "date": "2026-04-06",
+      "highlight": "Added AniList Support, better My List Experience, and stability fixes.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "AniList login and account linking",
+            "AniList sync support in anime and manga details",
+            "AniList list management in My List",
+            "Sorting for your anime and manga lists",
+            "Pull-to-refresh and improved AniList data in Profile",
+            "Note viewing support in My List cards",
+            "A new animated Dialog component",
+            "Grid view for My List",
+            "iOS context menu actions for media cards"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Search bar behavior and accessory layout",
+            "Notification checks and auth-aware messaging",
+            "Recent activity and updates visuals with richer colors",
+            "Accessibility labels and profile/login text clarity"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Settings sync reliability with retry behavior",
+            "Connectivity status handling in My List and Profile"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.0.1",
       "date": "2026-03-31",
