@@ -1,6 +1,36 @@
 {
-  "latestVersion": "1.1.0",
+  "latestVersion": "1.2.0",
   "versions": [
+    {
+      "version": "1.2.0",
+      "date": "2026-04-09",
+      "highlight": "Better profile and list experience with bug fixes.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Added account settings for MyAnimeList and AniList",
+            "Added list mode options in Profile",
+            "Added image carousel in character and person details",
+            "Added a clear date option in the date picker"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Improved profile management",
+            "Improved Profile text and icon styling"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Fixed reset button text color in My List sort/filter",
+            "Fixed spacing issues in My List and Active Notifications"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.1.0",
       "date": "2026-04-06",
