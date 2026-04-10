@@ -1,6 +1,23 @@
 {
-  "latestVersion": "1.2.0",
+  "latestVersion": "1.2.1",
   "versions": [
+    {
+      "version": "1.2.1",
+      "date": "2026-04-10",
+      "highlight": "Cleaner tabs, stronger auth state handling, and better AniList list reliability.",
+      "sections": [
+        {
+          "type": "Improved",
+          "items": [
+            "AniList list syncing to prevent duplicate entries",
+            "Tab layout structure and scroll behavior",
+            "Smoother login and session handling",
+            "My List status updates by using list providers",
+            "My List and Profile stats handling is now more consistent"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.2.0",
       "date": "2026-04-09",
