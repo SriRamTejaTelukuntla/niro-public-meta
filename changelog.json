@@ -1,6 +1,48 @@
 {
-  "latestVersion": "1.2.1",
+  "latestVersion": "1.3.0",
   "versions": [
+    {
+      "version": "1.3.0",
+      "date": "2026-04-22",
+      "highlight": "MyAnimeList and AniList now work on their own across the app, with a new releases section and lots of small fixes.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "New Releases section on the Manga Discover screen",
+            "Tap the Search tab again to scroll back to the top",
+            "Tap links inside descriptions, synopses, and reviews",
+            "Browse genres for whichever account you're using"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Profile, My List, characters, and recommendations show data from the account you're using",
+            "Search results show stats from the account you're using",
+            "Schedule screen follows the account you're using",
+            "Sharing a character now opens the right page",
+            "Studio links open the right page for your account",
+            "List status on anime and manga pages is more consistent",
+            "My List updates feel faster and smoother when you change progress",
+            "Better sorting and filter options on more screens",
+            "Search feels faster and finds better matches",
+            "Cover images look cleaner across lists and detail pages",
+            "Better handling when your connection drops",
+            "Colors and rounded corners now look the same everywhere",
+            "Profile and account settings sync better when you switch accounts"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Fewer AniList errors when the app makes lots of requests",
+            "Switching accounts no longer mixes up saved data",
+            "Reviews now look the same on every screen"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.2.1",
       "date": "2026-04-10",
