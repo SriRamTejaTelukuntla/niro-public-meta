@@ -1,6 +1,51 @@
 {
-  "latestVersion": "1.3.0",
+  "latestVersion": "1.4.0",
   "versions": [
+    {
+      "version": "1.4.0",
+      "date": "2026-05-01",
+      "highlight": "A new Activity Feed lets you see what others are up to, plus new pages for voice actors, staff, and characters.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Activity Feed — see recent updates and discussions, with filters to find what you care about",
+            "Tap an activity to open its full details and replies",
+            "Voice actor pages with their roles",
+            "Staff details pages",
+            "Character details page with smooth scrolling through more characters",
+            "New Releases section for manga when using AniList",
+            "Status banners let you know when MyAnimeList or AniList is having trouble",
+            "Filter your Schedule when Only My List is turned on"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Notifications stay in sync between your device and your account",
+            "Your list loads faster and updates feel quicker",
+            "Smoother experience when switching between MyAnimeList and AniList",
+            "Better behavior when your connection drops or comes back",
+            "Score picker is easier to use",
+            "Login button now matches the rest of the app",
+            "Smoother scrolling and toasts on your list screens",
+            "Floating action button animates more naturally when closing",
+            "Bottom sheets resize to fit their content",
+            "Anime and manga details load smarter for the account you're using"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Review vote counts now match across every screen",
+            "Activity details look right on iPhone",
+            "Images in activity replies show correctly",
+            "Activity filters reset properly",
+            "Dual-account mode no longer mixes up data"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.3.0",
       "date": "2026-04-22",
