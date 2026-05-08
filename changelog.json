@@ -1,6 +1,46 @@
 {
-  "latestVersion": "1.4.0",
+  "latestVersion": "1.5.0",
   "versions": [
+    {
+      "version": "1.5.0",
+      "date": "2026-05-08",
+      "highlight": "Browse other users' profiles, follow your friends, save favorites, and find characters, staff, and users right from search.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "View other users' profiles, including their favorites and follows",
+            "Follow and unfollow other users",
+            "Save anime and manga to your favorites",
+            "Favorites tab on profiles for anime, manga, characters, and staff",
+            "Search now finds characters, voice actors, staff, and users",
+            "Episodes behind indicator on airing shows in My List",
+            "Tap a mention in an activity to jump to that user's profile",
+            "Activity items now show a title so you know what they're about"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Smoother skeleton loaders on activity and profile screens",
+            "Faster avatar loading on profiles",
+            "Score picker is easier to type into",
+            "Notifications open the right page based on your main account",
+            "Anime details remember the correct list status when you open them",
+            "Profile and user screens follow your list mode choice",
+            "Better responsive layouts across more screens",
+            "Cleaner, more consistent text styling across the app",
+            "Quieter pull-to-refresh — fewer pop-up toasts when reloading"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Staff lists no longer show the same person twice",
+          ]
+        }
+      ]
+    },
     {
       "version": "1.4.0",
       "date": "2026-05-01",
