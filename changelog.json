@@ -1,6 +1,51 @@
 {
-  "latestVersion": "1.5.0",
+  "latestVersion": "1.6.0",
   "versions": [
+    {
+      "version": "1.6.0",
+      "date": "2026-06-05",
+      "highlight": "A brand-new animated welcome tour, AniList custom lists and scoring styles, opening and ending themes on anime, and a smoother, more polished app all around.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "A brand-new animated welcome tour that introduces Niro the first time you open the app",
+            "Revisit the welcome tour anytime from Settings",
+            "Custom lists tab in My List for AniList users (Read Only)",
+            "Drag to reorder the status tabs in My List",
+            "Choose your AniList scoring style — 10-point, 100-point, 5 stars, or smileys",
+            "Opening and ending themes now show on anime details",
+            "Copy an anime or manga title with a tap",
+            "Open anime and manga on AniList or MyAnimeList in your browser",
+            "Repeat counts for rewatches and rereads now show on anime and manga",
+            "New Android themed app icon that matches your wallpaper colors"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Activity posts now show spoilers, images, and styled text properly",
+            "AniList links in activity open inside the app instead of your browser",
+            "More consistent layouts, spacing, and text sizing across every screen size",
+            "Snappier animations across the app",
+            "Anime details now show episode duration and clearer runtime",
+            "Smoother pop-up menus and overlays",
+            "Better handling when your connection drops on more screens",
+            "Updated to the latest app framework for better performance and stability"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Birthdays now show the correct date no matter your timezone",
+            "Profile image sharing is faster and more reliable",
+            "Characters list loads and scrolls more reliably",
+            "Pull-to-refresh handles errors more gracefully",
+            "Various crash fixes for a more stable app"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.5.0",
       "date": "2026-05-08",
@@ -36,7 +81,7 @@
         {
           "type": "Fixed",
           "items": [
-            "Staff lists no longer show the same person twice",
+            "Staff lists no longer show the same person twice"
           ]
         }
       ]
