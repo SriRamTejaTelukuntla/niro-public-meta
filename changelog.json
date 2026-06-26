@@ -1,6 +1,44 @@
 {
-  "latestVersion": "1.6.0",
+  "latestVersion": "1.7.0",
   "versions": [
+    {
+      "version": "1.7.0",
+      "date": "2026-06-26",
+      "highlight": "Better custom list tools, clearer app feedback, faster scrolling, and smoother controls across Niro.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Create and manage your AniList custom lists from My List",
+            "Delete your own activity posts when you no longer need them",
+            "Turn off app animations from Settings",
+            "Control dynamic background gradients from Settings",
+            "See a clearer message when AniList asks the app to slow down"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Faster scrolling on Discover, My List, Profile, and Activity screens",
+            "Smoother tab behavior and easier-to-tap buttons",
+            "Cleaner cards, tabs, buttons, headers, and bottom sheets",
+            "Better feedback when tapping buttons and changing list values",
+            "More reliable image loading while scrolling",
+            "Better handling when your connection changes or services are busy"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Fewer unnecessary error messages while signing in or refreshing",
+            "Start and finish dates now stay in the right order",
+            "Search text in My List is easier to type and edit",
+            "Card overlays no longer show tiny gaps on some screens",
+            "General stability fixes for a smoother app"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.6.0",
       "date": "2026-06-05",
