@@ -1,6 +1,53 @@
 {
-  "latestVersion": "1.7.0",
+  "latestVersion": "1.8.0",
   "versions": [
+    {
+      "version": "1.8.0",
+      "date": "2026-07-12",
+      "highlight": "Home screen widgets BETA, Sharables, studio browsing, My List search, offline support, and a smoother app all around.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Home screen widgets show what you're currently watching on iOS and Android",
+            "Tap +1 on the widget to quickly update your episode progress",
+            "Browse all anime and manga from a studio on detail pages on AniList",
+            "Search your My List to find any title fast",
+            "Share anime and manga details as images",
+            "Sort and filter reviews on anime and manga pages",
+            "Hide scores on My List cards for a cleaner look",
+            "Turn blur effects on or off from Settings",
+            "Filter the anime schedule to only show titles on your list",
+            "Choose 12-hour or 24-hour time on the anime schedule"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "App opens faster with saved data, even on a slow connection",
+            "Discover and detail pages work from saved data when you're offline",
+            "Smoother scrolling on Profile, Activity, Schedule, and Settings",
+            "Swipe between tabs in My List for quicker navigation",
+            "Quick +1 list updates feel more responsive",
+            "Pop-up sheets and menus feel smoother and more natural",
+            "Anime schedule updates live as the day goes on",
+            "Clearer message when AniList asks the app to wait before refreshing",
+            "Sign-in and onboarding flow is smoother",
+            "Notifications stay in sync with your phone's permission settings"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "List updates sync more reliably when your connection flickers",
+            "Custom list membership stays correct when you change list status",
+            "Pull-to-refresh shows clearer errors instead of generic messages",
+            "Manage List sheet has more room for your options",
+            "Biography links are easier to tap and read"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.7.0",
       "date": "2026-06-26",
