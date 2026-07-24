@@ -1,6 +1,40 @@
 {
-  "latestVersion": "1.8.0",
+  "latestVersion": "1.9.0",
   "versions": [
+    {
+      "version": "1.9.0",
+      "date": "2026-07-24",
+      "highlight": "Introducing Achievements. Earn and share badges as you watch anime, plus live DUB airing times, browse by genre.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Achievements: earn badges as you watch anime",
+            "See a live countdown to when the next episode airs",
+            "See episode dub (English voice) airing times",
+            "Browse anime and manga by genre right from Search",
+            "Sort genres to find what you want faster",
+            "Manga stats now show on your profile when using MyAnimeList"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Faster, more reliable anime and manga info from a new data source",
+            "Smoother, more natural screen transitions on iOS and Android"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Fixed crashes when opening and closing pop-up sheets on Android",
+            "Fixed a rare crash on some anime detail pages",
+            "Toast messages no longer overlap the top navigation bar",
+            "Small styling fixes on external link buttons"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.8.0",
       "date": "2026-07-12",
