@@ -1,6 +1,43 @@
 {
-  "latestVersion": "1.9.0",
+  "latestVersion": "1.10.0",
   "versions": [
+    {
+      "version": "1.10.0",
+      "date": "2026-08-05",
+      "highlight": "Character, voice actor, and staff search now works with MyAnimeList too, plus a faster, smoother app all around.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Search for characters, voice actors, and staff while using MyAnimeList",
+            "See voice actors and staff on anime pages when using MyAnimeList",
+            "See how many people are reading, completed, or dropped a manga"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Faster and more reliable anime, manga, character, and staff info",
+            "Fewer unexpected sign-outs and login errors on MyAnimeList",
+            "App opens noticeably faster",
+            "Smoother scrolling on My List, Search, Schedule, Profile, and Achievements",
+            "Faster, smoother screen transitions and animations throughout the app",
+            "Bigger, easier-to-tap buttons and cleaner spacing on many screens",
+            "My List refresh no longer gets stuck loading"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Fixed the floating action button not showing as a full circle when collapsed",
+            "Fixed the What's New announcement sometimes showing again when it shouldn't",
+            "Fixed achievement pop-ups misbehaving if the app was backgrounded while sharing",
+            "Home screen widgets no longer briefly show outdated info",
+            "General stability and performance fixes for a smoother app"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.9.0",
       "date": "2026-07-24",
