@@ -1,6 +1,44 @@
 {
-  "latestVersion": "1.10.0",
+  "latestVersion": "1.11.0",
   "versions": [
+    {
+      "version": "1.11.0",
+      "date": "2026-09-03",
+      "highlight": "A new History section that reaches as far back as your list does, six icons for your home screen, and the full spread of scores on every details page.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "History — every anime and manga you've finished, grouped by month and laid out as a timeline",
+            "Tap a month to see what landed on which day, and what you scored it",
+            "Five new app icons alongside the original: Eclipse, Prism, Nebula, Aurora and Supernova",
+            "A tinted variant of all six icons that follows your home screen, in Settings → Appearance",
+            "Score distribution on every details page — the whole spread of scores, not just a single number",
+            "Drag across the distribution for the exact share at any point, or flip the bars to a curve",
+            "Like AniList activity from inside the app"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Genre pages in MyAnimeList mode filter on the server instead of scanning the rankings, so they load faster",
+            "Studios open in the app in MyAnimeList mode, with every sort, instead of bouncing you to a browser",
+            "Start dates fill themselves in when you move something to Watching, or when +1 lifts progress off zero",
+            "Faster catalogue loads",
+            "Sturdier list saves across both MyAnimeList and AniList accounts",
+            "A lighter download"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Titles no longer go missing between pages when browsing by genre",
+            "Clearing a start date now sticks",
+            "Offline and connection messages are honest about what is actually unreachable"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.10.0",
       "date": "2026-08-05",
