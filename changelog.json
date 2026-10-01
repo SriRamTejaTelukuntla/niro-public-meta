@@ -1,6 +1,41 @@
 {
-  "latestVersion": "1.11.0",
+  "latestVersion": "1.12.0",
   "versions": [
+    {
+      "version": "1.12.0",
+      "date": "2026-10-01",
+      "highlight": "This update brings franchise timelines, shelves for your anime, and quick actions when you hold a poster.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "Franchise timeline: every season, film and side story in order, with your progress on each",
+            "Open a franchise timeline from the Related tab on any anime",
+            "Shelves: group anime your way and drag titles into any order",
+            "Share a shelf as a link anyone can open, or as a picture for your story",
+            "Press and hold any poster for quick actions: Add to Shelf, Share and Open in Browser, now on Android too",
+            "A short letter from me: scroll to the bottom of Settings and tap the stamp"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "Blur Effects, Dynamic Gradients and Disable Animations are now in Settings → Appearance",
+            "Related anime now show their score, and an icon shows your list status",
+            "Anime that have not aired yet show a countdown to the first episode"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Long titles no longer run into the back button",
+            "Genre colours stay the same",
+            "Achievement card text stays on one line",
+            "Italic text looks right on Android"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.11.0",
       "date": "2026-09-03",
