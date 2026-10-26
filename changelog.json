@@ -1,6 +1,46 @@
 {
-  "latestVersion": "1.12.0",
+  "latestVersion": "1.13.0",
   "versions": [
+    {
+      "version": "1.13.0",
+      "date": "2026-10-26",
+      "highlight": "This update brings a new profile with statistics, a Social tab on AniList, a new My List, and AniList notifications.",
+      "sections": [
+        {
+          "type": "New",
+          "items": [
+            "A new profile, with tabs for your forum posts and reviews on AniList",
+            "AniList statistics: a full page you can share as a picture",
+            "On someone else's AniList list, tap a poster to compare their entry with yours",
+            "Social tab on AniList: what the people you follow think of a title, and its forum threads",
+            "My List puts each franchise in one card, with its seasons, films and specials together",
+            "AniList notifications: tap the bell in Discover, and turn on alerts in Settings → Notifications",
+            "Pick for me: tap Pick something to watch at the top of Plan to Watch or Plan to Read",
+            "A Reading widget for the manga you are reading, with +1 on your home screen",
+            "Report or block posts and people, and delete your Niro account in Settings"
+          ]
+        },
+        {
+          "type": "Improved",
+          "items": [
+            "A new Floating look for My List, with an optional Rewatching tab, in Settings → My List → Status Picker",
+            "Deeper filters on MAL and AniList, and filters work without typing a search",
+            "On Android, AniList and MyAnimeList links from other apps open in Niro",
+            "Discover cards show your list status",
+            "Niro uses less battery when idle"
+          ]
+        },
+        {
+          "type": "Fixed",
+          "items": [
+            "Logging out signs out only this phone",
+            "MAL now saves manga rereads",
+            "The +1 on widgets handles rewatches and keeps an existing finish date",
+            "Cut-off text on Android keeps all three dots"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.12.0",
       "date": "2026-10-01",
